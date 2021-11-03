@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Itim', cursive;
+    background-image: url("https://www.diamonddistrict.pl/images/design/sztos-pieniedzy.jpg");
+    background-repeat: no-repeat;
+    background-color: hsl(50, 8%, 57%);
+    background-size: 100%;
+    margin: 0 auto;
+}
+
+.body__header {
+    background-color: hsl(180, 100%, 97%);
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.body__footer {
+text-align: center;
+font-size: small;
+}
