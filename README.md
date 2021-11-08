@@ -1,7 +1,7 @@
 # Simple currency calculator.
 
 ## Demo
-https://sewbrzozka.github.io/exchange/
+https://sewbrzozka.github.io/currency-converter/
 
 ## Technologies
 - HTML
